@@ -52,6 +52,11 @@ body{
     list-style: none;
 }
 
+.nav__izquierdo-links-link a{
+    text-decoration: none;
+    color: #F6F6F6;
+}
+
 
 .nav__derecho{
     display: flex;
